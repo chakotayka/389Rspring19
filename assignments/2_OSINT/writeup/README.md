@@ -51,8 +51,10 @@ Use OSINT techniques to learn as much as you can about `v0idcache` and answer th
     Latitude:     52.3529
     Longitude:    4.9415
     There doesn’t seem to be any history beside the bank based on securitytrails.com.  First seen February 6, 2019 and the organization hosting it is Digital Ocean.
+    
     2. 162.255.118.61  and 162.255.118.61 (from dnsdumpster.com)
         Says emails are sent there, hosts 33 domains
+    
     3. 216.87.155.33 (from dnsdumspter.com)
         Country Code: US
     Country Name: United States
@@ -68,7 +70,7 @@ Use OSINT techniques to learn as much as you can about `v0idcache` and answer th
 7)	Which operating system is running on the website? How did you discover this?
 -	Werkzeug/0.14.1 Python/3.7.2 from BrowserSpy
 8)	BONUS: Did you find any other flags on your OSINT mission? (Up to 9 pts!)
--	<!-- Good find! CMSC389R-{h1dd3n_1n_plain_5ight} -->
+-	Good find! CMSC389R-{h1dd3n_1n_plain_5ight} 
 -	"CMSC389R-{h0w_2_iNt0_DNS_r3c0Rd5}"
 Random on pastebin: https://pastebin.com/WghDuAr7
 Conversation potentially between this v0idcache and fl1nch (most likely true because it was created around the same time frame)  - they discuss a file called AB4300.txt
