@@ -136,7 +136,8 @@ def brute_force():
     fp = open(wordlist, 'r'):
     line = fp.readline()
     while line:
-        s.send(data + "\n" + line)
+        s.send(username + "\n" + line)
+        s.send(line)
     #password = ""   # Hint: use wordlist
 
 
