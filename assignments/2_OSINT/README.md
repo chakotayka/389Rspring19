@@ -78,7 +78,7 @@ Note: If you choose to write your own program in another language, please includ
 If you are stuck on this part of the assignment, let us know! The facilitator staff is here to help and teach, and we are open to releasing hints as time goes on!
 
 
-I tried to access both ports with ssh, nc, and telnet, but the prompt for a password never showed.  I feel like it probably should have showed up when I tried to ssh into the server but a prompt never showed and then I couldn't get anything but a protocol mismatch.  I had modified the script to try and have it go through a wordlist (rockyou).
+I tried to access both ports with ssh, nc, and telnet, but the prompt for a password never showed.  I feel like it probably should have showed up when I tried to ssh into the server but a prompt never showed and then I couldn't get anything but a protocol mismatch.  I had modified the script to try and have it go through a wordlist (rockyou).  I have the public key so I guess I could somehow add that in but I wasn't sure where it would go.
 
 
 ### Format
