@@ -17,21 +17,51 @@ NOTE: "briefly describe" = 2-3 sentences (and/or include screenshot(s))
 
 Use OSINT techniques to learn as much as you can about `v0idcache` and answer the following questions:
 
-1. What is `v0idcache`'s real name?
+1)	What is v0idcache's real name?  
+-	Elizabth Moffet  
+2)	Where does v0idcache work? What is the URL to their website?
+-	Banking CEO at 13/37th National Bank
+-	Company’s website: http://1337bank.money/
+3)	List all personal information (including social media accounts, contacts, etc) you can find about v0idcache. For each, briefly detail how you discovered them.
+-	Twitter: https://twitter.com/v0idcache  (from search on twitter of user name)
+-	Email: v0idcache@protonmail.com (from company website)
+-	Maybe github because it was  created around the same time: https://github.com/v0idcache
+4)	List any ( >= 1 ) IP addresses associated with the website. For each, detail the location of the server, any history in DNS, and how you discovered this information.
+     142.93.136.81 (from reverse ip lookup from 1337bank.money on viewdns.info)
+    1.	IP Location Results for 142.93.136.81
+    ==============
+    
+    City:         Amsterdam
+    Zip Code:     1098
+    Region Code:  NH
+    Region Name:  North Holland
+    Country Code: NL
+    Country Name: Netherlands
+    Latitude:     52.3529
+    Longitude:    4.9415
+    There doesn’t seem to be any history beside the bank based on securitytrails.com.  First seen February 6, 2019 and the organization hosting it is Digital Ocean.
+    2. 162.255.118.61  and 162.255.118.61 (from dnsdumpster.com)
+        Says emails are sent there, hosts 33 domains
+    3. 216.87.155.33 (from dnsdumspter.com)
+        Country Code: US
+    Country Name: United States
+    Latitude:     37.751
+    Longitude:    -97.822
+        Port 53 open
+5)	List any hidden files or directories you found on this website. For full credit, list two distinct flags.
+-	CMSC389R-{h1ding_fil3s_in_r0bots_L0L}
+6)	What ports are open on the website? What services are running behind these ports? How did you discover this?
+-	Port 22: Open ssh Version: 7.6p1 Ubuntu-4ubuntu0.2
+-	Port 80: Werkzeug httpdVersion: 0.14.1
+-	I discovered this from shodan.
+7)	Which operating system is running on the website? How did you discover this?
+-	Werkzeug/0.14.1 Python/3.7.2 from BrowserSpy
+8)	BONUS: Did you find any other flags on your OSINT mission? (Up to 9 pts!)
+-	<!-- Good find! CMSC389R-{h1dd3n_1n_plain_5ight} -->
+-	"CMSC389R-{h0w_2_iNt0_DNS_r3c0Rd5}"
+Random on pastebin: https://pastebin.com/WghDuAr7
+Conversation potentially between this v0idcache and fl1nch (most likely true because it was created around the same time frame)  - they discuss a file called AB4300.txt
 
-2. Where does `v0idcache` work? What is the URL to their website?
-
-3. List all personal information (including social media accounts, contacts, etc) you can find about `v0idcache`. For each, briefly detail how you discovered them.
-
-4. List any ( >= 1 ) IP addresses associated with the website. For each, detail the location of the server, any history in DNS, and how you discovered this information.
-
-5. List any hidden files or directories you found on this website. For full credit, list *two* distinct flags.
-
-6. What ports are open on the website? What services are running behind these ports? How did you discover this?
-
-7. Which operating system is running on the server that is hosting the website? How did you discover this?
-
-8. **BONUS:** Did you find any other flags on your OSINT mission? (Up to 9 pts!)
 
 ### Part 2
 
@@ -46,6 +76,10 @@ Your response here should briefly document how you approached and solved this pa
 Note: If you choose to write your own program in another language, please include instructions on how to execute your program, including what version of the language you are using. You will **NOT** receive credit if the TAs cannot run your program.
 
 If you are stuck on this part of the assignment, let us know! The facilitator staff is here to help and teach, and we are open to releasing hints as time goes on!
+
+
+I tried to access both ports with ssh, nc, and telnet, but the prompt for a password never showed.  I feel like it probably should have showed up when I tried to ssh into the server but a prompt never showed and then I couldn't get anything but a protocol mismatch.  I had modified the script to try and have it go through a wordlist (rockyou).
+
 
 ### Format
 In the "week/2/writeup" directory of our repository there is a README.md file for you to edit and submit your homework in. Use this as a template and directly edit it with your answers. Complete your bruteforce program in this directory as well. When you've finished the assignment, push it up to your personal GitHub for us to grade.
