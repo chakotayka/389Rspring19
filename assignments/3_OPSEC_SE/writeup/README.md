@@ -3,9 +3,9 @@
 Name: Sara Bittner
 Section: 101
 
-I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examniation.
+I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examination.
 
-Digital acknowledgement: Sara bittner
+Digital acknowledgement: Sara Bittner
 
 ## Assignment Writeup
 
@@ -21,7 +21,7 @@ Alternatively, we can call her and pose the same scenario by pretending we are a
 
 Vulnerability 1: Weak passwords: First of all, make it so that when employees create their passwords, they are forced to make more secure passwords.  For instance, make them include a capital, a symbol, a number, a certain amount of characters etc.  It is also helpful to educate employees on what a good password actually looks like and what passwords are considered weak.  You can show them which passwords are the most frequently used and encourage them not to use them.  People are still the weakest link so it would make sense to make the employees do multifactor authentication.  That way even if the password is weak and someone guesses it, then the attacker doesn’t automatically get in.
 
-e Vulnerability 2: Exposed ports:  It can be dangerous to have port 22 open, which they did.  If the company does not need that port to be open, they should close it.  Otherwise, you can get a firewall and only let certain IP addresses connect via that port.  To further protect your server, you could do IDS/IPS, which are Intrusion detection systems (IDS) and intrusion prevention systems (IPS).  IDS and IPS monitor the system and look for possible security incidents and stop them (https://www.juniper.net/us/en/products-services/what-is/ids-ips/).
+Vulnerability 2: Exposed ports:  It can be dangerous to have port 22 open, which they did.  If the company does not need that port to be open, they should close it.  Otherwise, you can get a firewall and only let certain IP addresses connect via that port.  To further protect your server, you could do IDS/IPS, which are Intrusion detection systems (IDS) and intrusion prevention systems (IPS).  IDS and IPS monitor the system and look for possible security incidents and stop them (https://www.juniper.net/us/en/products-services/what-is/ids-ips/).
 
 Vulnerability 3: Using the same user name: It is probably not a good idea to use your work username as your username for things like Twitter.  This makes it easier to link someone through different accounts and learn more about them through OSINT.  This suggestion is simple.  Use different user names.
 

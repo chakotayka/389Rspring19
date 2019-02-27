@@ -57,8 +57,8 @@
         <entry file="file://$PROJECT_DIR$/assignments/3_OPSEC_SE/writeup/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="640">
-                <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <first_editor relative-caret-position="1200">
+                <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -314,12 +314,20 @@
       <updated>1550183811207</updated>
       <workItem from="1550183813051" duration="1925000" />
       <workItem from="1550979137111" duration="2428000" />
-      <workItem from="1551242562734" duration="906000" />
+      <workItem from="1551242562734" duration="1028000" />
     </task>
+    <task id="LOCAL-00001" summary="completed assignment 3">
+      <created>1551243486536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551243486536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5259000" />
+    <option name="totallyTimeSpent" value="5381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
@@ -360,7 +368,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="completed assignment 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed assignment 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -516,8 +525,8 @@
     <entry file="file://$PROJECT_DIR$/assignments/3_OPSEC_SE/writeup/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="640">
-            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <first_editor relative-caret-position="1200">
+            <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
