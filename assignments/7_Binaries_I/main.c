@@ -1,14 +1,3 @@
-/*
- * Name: Sara Bittner
- * Section: 0101
- *
- * I pledge on my honor that I have not given or received any unauthorized
- * assistance on this assignment or examination.
- *
- * Digital acknowledgement: Sara Bittner
- */
-
-/* your code goes here */
 #include <stdio.h>
 
 int main(void) {
