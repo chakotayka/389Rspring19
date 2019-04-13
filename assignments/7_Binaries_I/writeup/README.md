@@ -1,12 +1,13 @@
 # Writeup 7 - Binaries I
 
-Name: *PUT YOUR NAME HERE*
-Section: *PUT YOUR SECTION NUMBER HERE*
+Name: Sara Bittner
+Section: 0101
 
 I pledge on my honor that I have not given or received any unauthorized
 assistance on this assignment or examination.
 
-Digital acknowledgement: *PUT YOUR NAME HERE*
+Digital acknowledgement: Sara Bittner
+
 
 ## Assignment Writeup
 
