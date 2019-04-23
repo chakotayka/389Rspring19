@@ -15,7 +15,7 @@ int main(void) {
 
     eax = b;
     esi = eax; // our second argument
-    char *edi = "b = %d\n"; // our first argument
+    edi = "b = %d\n"; // our first argument
     eax = 0; // since we have 0 floating point arguments
     printf(edi, esi);
 
@@ -29,13 +29,13 @@ int main(void) {
 
     eax = a;
     esi = eax; // our second argument
-    char *edi = "a = %d\n"; // our first argument
+    edi = "a = %d\n"; // our first argument
     eax = 0; // since we have 0 floating point arguments
     printf(edi, esi);
 
     eax = b;
     esi = eax; // our second argument
-    char *edi = "b = %d\n"; // our first argument
+    edi = "b = %d\n"; // our first argument
     eax = 0; // since we have 0 floating point arguments
     printf(edi, esi);
 
