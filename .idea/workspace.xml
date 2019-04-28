@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="faf2f761-7a38-43c9-a25b-d48dcc126ce9" name="Default" comment="completed assignment 3">
       <change beforePath="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/README.md" afterPath="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/README.md" />
-      <change beforePath="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/crack.py" afterPath="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/crack.py" />
-      <change beforePath="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/server_crack.py" afterPath="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/server_crack.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -301,7 +299,7 @@
       <workItem from="1554403619944" duration="3655000" />
       <workItem from="1554776625944" duration="7058000" />
       <workItem from="1555181157763" duration="10147000" />
-      <workItem from="1556048717089" duration="4163000" />
+      <workItem from="1556048717089" duration="4429000" />
     </task>
     <task id="LOCAL-00001" summary="completed assignment 3">
       <created>1551243486536</created>
@@ -321,7 +319,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33186000" />
+    <option name="totallyTimeSpent" value="33452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
@@ -799,10 +797,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/9_Crypto_I/writeup/passwords.txt">
+    <entry file="file://$PROJECT_DIR$/assignments/9_Crypto_I/writeup/hashes.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2663">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="400">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -815,10 +813,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/9_Crypto_I/writeup/hashes.txt">
+    <entry file="file://$PROJECT_DIR$/assignments/9_Crypto_I/writeup/passwords.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="-2663">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
