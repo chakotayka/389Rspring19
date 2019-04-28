@@ -37,7 +37,7 @@ def crack():
             h = hashlib.sha256(hash).hexdigest()
             #print h
             if h in hashes:
-                print p.strip('\n') + ":" + h
+                print c + p.strip('\n') + ":" + h
     
 if __name__ == "__main__":
     crack()

@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faf2f761-7a38-43c9-a25b-d48dcc126ce9" name="Default" comment="completed assignment 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assignments/7_Binaries_I/main.c" afterPath="$PROJECT_DIR$/assignments/7_Binaries_I/main.c" />
-      <change beforePath="$PROJECT_DIR$/assignments/7_Binaries_I/writeup/README.md" afterPath="$PROJECT_DIR$/assignments/7_Binaries_I/writeup/README.md" />
-      <change beforePath="$PROJECT_DIR$/assignments/7_Binaries_I/writeup/main.c" afterPath="$PROJECT_DIR$/assignments/7_Binaries_I/writeup/main.c" />
+      <change beforePath="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/README.md" afterPath="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/README.md" />
       <change beforePath="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/crack.py" afterPath="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/crack.py" />
+      <change beforePath="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/server_crack.py" afterPath="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/server_crack.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,17 +19,40 @@
         <entry file="file://$PROJECT_DIR$/assignments/9_Crypto_I/writeup/crack.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1440">
-              <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+              <caret line="39" column="44" lean-forward="false" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hashes.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hashes.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignments/9_Crypto_I/writeup/hashes.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
               <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignments/9_Crypto_I/writeup/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="840">
+                <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server_crack.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignments/9_Crypto_I/writeup/server_crack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,6 +100,7 @@
         <option value="$PROJECT_DIR$/assignments/7_Binaries_I/writeup/main.c" />
         <option value="$PROJECT_DIR$/assignments/7_Binaries_I/main.c" />
         <option value="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/crack.py" />
+        <option value="$PROJECT_DIR$/assignments/9_Crypto_I/writeup/README.md" />
       </list>
     </option>
   </component>
@@ -279,7 +301,7 @@
       <workItem from="1554403619944" duration="3655000" />
       <workItem from="1554776625944" duration="7058000" />
       <workItem from="1555181157763" duration="10147000" />
-      <workItem from="1556048717089" duration="3180000" />
+      <workItem from="1556048717089" duration="4163000" />
     </task>
     <task id="LOCAL-00001" summary="completed assignment 3">
       <created>1551243486536</created>
@@ -299,7 +321,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32203000" />
+    <option name="totallyTimeSpent" value="33186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
@@ -348,25 +370,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assignments/7_Binaries_I/main.s">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/7_Binaries_I/writeup/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2160">
-            <caret line="54" column="4" lean-forward="false" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/7_Binaries_I/main.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1480">
@@ -791,7 +794,7 @@
     <entry file="file://$PROJECT_DIR$/assignments/9_Crypto_I/writeup/crack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1440">
-          <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+          <caret line="39" column="44" lean-forward="false" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -804,11 +807,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/9_Crypto_I/writeup/server_crack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/9_Crypto_I/writeup/hashes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/9_Crypto_I/writeup/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="840">
+            <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
