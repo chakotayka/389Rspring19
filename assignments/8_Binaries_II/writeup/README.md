@@ -24,4 +24,4 @@ The least helpful tool was Binary Ninja, mostly because my free version can't br
 
 
 
-![alt text](389 hw8 screenshot.png)
+![alt text](https://github.com/chakotayka/389Rspring19/blob/master/assignments/8_Binaries_II/writeup/389R%20hw8%20screenshot.png)

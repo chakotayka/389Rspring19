@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faf2f761-7a38-43c9-a25b-d48dcc126ce9" name="Default" comment="completed assignment 3">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assignments/8_Binaries_II/writeup/389R hw8 screenshot.png" />
+    <list default="true" id="faf2f761-7a38-43c9-a25b-d48dcc126ce9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/assignments/8_Binaries_II/writeup/README.md" afterPath="$PROJECT_DIR$/assignments/8_Binaries_II/writeup/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/assignments/8_Binaries_II/writeup/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="720">
-                <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <first_editor relative-caret-position="1040">
+                <caret line="26" column="128" lean-forward="false" selection-start-line="26" selection-start-column="128" selection-end-line="26" selection-end-column="128" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -314,7 +314,7 @@
       <workItem from="1555181157763" duration="10147000" />
       <workItem from="1556048717089" duration="7326000" />
       <workItem from="1557535341790" duration="9078000" />
-      <workItem from="1557866891528" duration="7325000" />
+      <workItem from="1557866891528" duration="7411000" />
     </task>
     <task id="LOCAL-00001" summary="completed assignment 3">
       <created>1551243486536</created>
@@ -337,11 +337,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557876651184</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="completed assignment 8">
+      <created>1557876724701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557876724701</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52752000" />
+    <option name="totallyTimeSpent" value="52838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
@@ -383,7 +390,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed assignment 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed assignment 3" />
+    <MESSAGE value="completed assignment 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed assignment 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -811,8 +819,8 @@
     <entry file="file://$PROJECT_DIR$/assignments/8_Binaries_II/writeup/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="720">
-            <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <first_editor relative-caret-position="1040">
+            <caret line="26" column="128" lean-forward="false" selection-start-line="26" selection-start-column="128" selection-end-line="26" selection-end-column="128" />
             <folding />
           </first_editor>
           <second_editor />
